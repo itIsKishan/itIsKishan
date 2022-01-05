@@ -1,12 +1,6 @@
 <h1 align="center">Hi There!! 👋, I'm Kishan</h1>
 <h3 align="center">I Like to work on MERN and SERVERLESS, and passionate about to learn new things</h3>
 
-- 🔭 I’m currently working on **Serverless**
-
-- 📫 How to reach me **RememberMeAsKishan@gmail.com**
-
-- ⚡ Fun fact **Genius Knows The Secrete That They Don't Know Nothing..**
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
